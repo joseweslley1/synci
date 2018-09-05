@@ -1,0 +1,77 @@
+
+.btn-cn {
+
+background-color:#2F4F4F;
+width: 218px;
+height: 69px;
+color:#fff;
+
+} 
+.btn-cn:hover {
+
+  background-color:rgb(11, 40, 51);
+  width: 218px;
+  height: 69px;
+  
+  } 
+  
+
+  .btn-NM {
+
+    background-image: url('../img/3.png');
+    width: 218px;
+    height: 69px;
+    
+    } 
+    .btn-NM:hover {
+    
+      background-image: url('../img/3.png');
+      width: 218px;
+      height: 69px;
+      
+      } 
+
+      .btn-CN {
+
+        background-image: url('../img/2.png');
+        width: 218px;
+        height: 69px;
+        
+        } 
+        .btn-CN:hover {
+        
+          background-image: url('../img/2.png');
+          width: 218px;
+          height: 69px;
+          
+          } 
+
+          .btn-ISD {
+
+            background-image: url('../img/4.png');
+            width: 218px;
+            height: 69px;
+            
+            } 
+            .btn-ISD:hover {
+            
+              background-image: url('../img/4.png');
+              width: 218px;
+              height: 69px;
+              
+              } 
+
+              .btn-EA {
+
+                background-image: url('../img/5.png');
+                width: 218px;
+                height: 69px;
+                
+                } 
+                .btn-EA:hover {
+                
+                  background-image: url('../img/5.png');
+                  width: 218px;
+                  height: 69px;
+                  
+                  }
